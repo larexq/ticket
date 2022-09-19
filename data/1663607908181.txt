@@ -1,0 +1,4 @@
+The user id that created the ticket: 790635010192834601 (Channel #ticket-790635010192834601)
+
+19.09.2022 20:18:23 - larex#6450 (Ticket Creator) : Hi World
+Date: 19.09.2022 20:18:28
